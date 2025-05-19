@@ -1,5 +1,8 @@
 package util;
 
+import lombok.Getter;
+import lombok.Setter;
+
 import java.sql.*;
 
 /*@author 조현진

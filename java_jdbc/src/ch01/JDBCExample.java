@@ -12,7 +12,7 @@ public class JDBCExample {
     public static void main(String[] args) {
         // MySQL 8 버전에 접근 하려고 함
         // DB 접근 기술을 정형화 되어 있다.
-        String url = "jdbc:mysql://localhost:3306/school?serverTimezone=Asia/Seoul";
+        String url = "jdbc:mysql://localhost:3306/library?serverTimezone=Asia/Seoul";
         String user = "root";
         String password = "asd1234";
 
